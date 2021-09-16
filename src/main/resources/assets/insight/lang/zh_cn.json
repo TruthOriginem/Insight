@@ -1,0 +1,23 @@
+{
+  "itemGroup.insight.general": "灵感-通用",
+  "item.insight.insight_media": "灵感媒介单元",
+  "item.insight.totem_of_iron_golem": "铁傀儡图腾",
+  "item.insight.compressed_coal": "压制煤",
+  "item.insight.raw_sic_crystal": "未成形的碳化硅方晶",
+  "item.insight.sic_crystal": "碳化硅方晶",
+  "item.insight.lava_melted_ingot": "熔融岩浆切条",
+  "item.insight.raw_molten_iron": "未成形的熔铁锭",
+  "item.insight.molten_iron_ingot": "熔铁锭",
+  "item.insight.molten_iron_ingot.tooltip": "由本材料制造的工具会在岩浆中缓慢修复并升级耐久III至耐久IV。",
+  "item.insight.molten_iron_pickaxe": "熔铁镐",
+  "item.insight.molten_iron_hoe": "熔铁锄",
+  "item.insight.molten_iron_axe": "熔铁斧",
+  "item.insight.molten_iron_shovel": "熔铁锹",
+  "item.insight.molten_iron_sword": "熔铁剑",
+  "block.insight.lava_melted_block": "熔铸岩浆块",
+  "block.insight.raw_insight_block": "原生灵感方块",
+  "block.insight.obsidian_insight_block": "黑曜石灵感方块",
+  "block.insight.stone_reactor": "原石反应机",
+  "block.insight.raw_iron_reactor": "粗铁反应机",
+  "block.insight.obsidian_reactor": "黑曜石反应机"
+}

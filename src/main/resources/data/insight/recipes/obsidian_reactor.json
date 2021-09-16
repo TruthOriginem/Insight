@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#i#",
+    "#s#",
+    "#j#"
+  ],
+  "key": {
+    "#": {
+      "item": "insight:obsidian_insight_block"
+    },
+    "i": {
+      "item": "minecraft:lava_bucket"
+    },
+    "s": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "j": {
+      "item": "minecraft:cauldron"
+    }
+  },
+  "result": {
+    "item": "insight:obsidian_reactor",
+    "count": 1
+  }
+}

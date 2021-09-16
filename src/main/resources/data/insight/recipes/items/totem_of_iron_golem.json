@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "IEI",
+    " E "
+  ],
+  "key": {
+    "#": {"item": "minecraft:carved_pumpkin"},
+    "E": {"item": "minecraft:emerald"},
+    "I": {"item": "minecraft:iron_block"}
+  },
+  "result": {
+    "item": "insight:totem_of_iron_golem"
+  }
+}

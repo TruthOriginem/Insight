@@ -1,0 +1,23 @@
+{
+  "itemGroup.insight.general": "Insight-General",
+  "item.insight.insight_media": "Insight Media",
+  "item.insight.totem_of_iron_golem": "Totem of Iron Golem",
+  "item.insight.compressed_coal": "Compressed Coal",
+  "item.insight.raw_sic_crystal": "Raw SiC Crystal",
+  "item.insight.sic_crystal": "SiC Crystal",
+  "item.insight.lava_melted_ingot": "Melted Lava Ingot",
+  "item.insight.raw_molten_iron": "Raw Molten Iron",
+  "item.insight.molten_iron_ingot": "Molten Iron Ingot",
+  "item.insight.molten_iron_ingot.tooltip": "The tools crafted by this keep repairing in the lava, and upgrade Unbreaking III to IV!",
+  "item.insight.molten_iron_pickaxe": "Molten Iron Pickaxe",
+  "item.insight.molten_iron_hoe": "Molten Iron Hoe",
+  "item.insight.molten_iron_axe": "Molten Iron Axe",
+  "item.insight.molten_iron_shovel": "Molten Iron Shovel",
+  "item.insight.molten_iron_sword": "Molten Iron Sword",
+  "block.insight.lava_melted_block": "Melted Lava Block",
+  "block.insight.raw_insight_block": "Raw Insight Block",
+  "block.insight.obsidian_insight_block": "Obsidian Insight Block",
+  "block.insight.stone_reactor": "Stone Reactor",
+  "block.insight.raw_iron_reactor": "Raw Iron Reactor",
+  "block.insight.obsidian_reactor": "Obsidian Reactor"
+}

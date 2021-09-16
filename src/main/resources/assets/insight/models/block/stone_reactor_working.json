@@ -1,0 +1,6 @@
+{
+  "parent": "insight:block/stone_reactor",
+  "textures": {
+    "1": "block/lava_flow"
+  }
+}

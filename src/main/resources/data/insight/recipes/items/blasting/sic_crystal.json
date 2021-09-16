@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "insight:raw_sic_crystal"
+  },
+  "result": "insight:sic_crystal",
+  "experience": 0.1,
+  "cookingtime": 100
+}

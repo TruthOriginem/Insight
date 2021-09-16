@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "S"
+  ],
+  "key": {
+    "#": {"item": "insight:molten_iron_ingot"},
+    "S": [
+      {
+        "tag": "c:wooden_rods"
+      }
+    ]
+  },
+  "result": {
+    "item": "insight:molten_iron_sword"
+  }
+}

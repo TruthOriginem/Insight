@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "S#S",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "insight:insight_media"
+    },
+    "S": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "insight:obsidian_insight_block",
+    "count": 1
+  }
+}

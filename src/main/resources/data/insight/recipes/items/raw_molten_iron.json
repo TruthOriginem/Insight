@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "item": "insight:lava_melted_ingot"
+    },
+    {
+      "item": "insight:compressed_coal"
+    }
+  ],
+  "result": {
+    "item": "insight:raw_molten_iron",
+    "count": 1
+  }
+}

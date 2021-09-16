@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "isi",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_bricks"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "insight:raw_insight_block"
+    }
+  },
+  "result": {
+    "item": "insight:stone_reactor",
+    "count": 1
+  }
+}

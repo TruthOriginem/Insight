@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "insight",
+  "version": "${version}",
+  "name": "Insight",
+  "description": "Some lazy automation, fuels and...lava stuffs.",
+  "authors": [
+    "Originem"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/insight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.originem.insight.InsightMod"
+    ],
+    "client": [
+      "com.originem.insight.client.InsightClient"
+    ]
+  },
+  "mixins": [
+    "insight.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": ">=0.36.0",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

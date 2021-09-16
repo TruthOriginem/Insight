@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "insight:block/raw_insight_block"
+  }
+}

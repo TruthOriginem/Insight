@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "working=false": {"model": "insight:block/raw_iron_reactor"},
+    "working=true": {"model": "insight:block/raw_iron_reactor_working"}
+  }
+}

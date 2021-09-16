@@ -1,0 +1,6 @@
+{
+  "parent": "insight:block/raw_iron_reactor",
+  "textures": {
+    "1": "block/lava_still"
+  }
+}

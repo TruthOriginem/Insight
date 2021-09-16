@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "working=false,top=false": {"model": "insight:block/stone_reactor"},
+    "working=true,top=false": {"model": "insight:block/stone_reactor_working"},
+    "working=false,top=true": {"model": "insight:block/stone_reactor_top"},
+    "working=true,top=true": {"model": "insight:block/stone_reactor_top_working"}
+  }
+}

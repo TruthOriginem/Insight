@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "insight:block/raw_insight_block"}
+  }
+}

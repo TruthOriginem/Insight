@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "isi",
+    "#j#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "s": {
+      "item": "insight:totem_of_iron_golem"
+    },
+    "i": {
+      "item": "minecraft:iron_bars"
+    },
+    "j": {
+      "item": "insight:obsidian_insight_block"
+    }
+  },
+  "result": {
+    "item": "insight:raw_iron_reactor",
+    "count": 1
+  }
+}

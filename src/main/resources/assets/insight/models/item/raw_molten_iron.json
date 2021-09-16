@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "insight:item/raw_molten_iron"
+  }
+}
